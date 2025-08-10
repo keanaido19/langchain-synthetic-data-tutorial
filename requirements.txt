@@ -1,3 +1,4 @@
+pandas
 langchain-openai
 python-dotenv
 langchain-experimental

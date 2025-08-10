@@ -1,0 +1,21 @@
+TransactionID,CustomerID,CustomerName,ProductID,ProductName,ProductCategory,Quantity,UnitPrice,TotalPrice,TransactionDate
+1004,504,Emma L,203,Web Development Masterclass,eLearning,1,99.0,99.0,2030-01-03
+2001,601,Charlie M,205,Data Science Essentials,eLearning,3,129.99,389.97,2030-01-04
+3001,702,Alice J,301,Graphic Design Basics,eLearning,2,79.99,159.98,2030-01-05
+5001,805,Oliver B,402,Python Programming for Beginners,eLearning,4,49.99,199.96,2030-01-06
+4002,903,Sophia K,107,Web Development Masterclass,eLearning,5,89.99,449.95,2030-01-07
+7001,921,Ethan M,501,Digital Marketing Strategies,eLearning,3,69.99,209.97,2030-01-08
+6003,712,Ava S,205,Machine Learning Fundamentals,eLearning,6,79.99,479.94,2030-01-09
+9001,120,Oliver L,305,Data Science Essentials,eLearning,4,99.99,399.96,2030-01-10
+9876,543,Sophie R,777,Web Development Masterclass,eLearning,5,59.99,299.95,2030-01-11
+1234,456,Emily K,789,Artificial Intelligence Basics,eLearning,3,69.99,209.97,2030-01-15
+5555,789,Ethan M,456,Machine Learning Fundamentals,eLearning,2,49.99,99.98,2030-01-20
+6543,321,Olivia L,987,Data Visualization Essentials,eLearning,4,39.99,159.96,2030-02-05
+9876,654,Liam S,321,Python Programming for Beginners,eLearning,5,59.99,299.95,2030-02-18
+1234,456,Sophia R,789,Web Development Crash Course,eLearning,3,29.99,89.97,2030-03-10
+8765,789,Aiden M,654,Machine Learning Fundamentals,eLearning,2,49.99,99.98,2030-04-25
+4567,234,Olivia H,987,Data Science Essentials,eLearning,4,39.99,159.96,2030-05-15
+9876,654,Liam S,321,Python Programming Basics,eLearning,5,19.99,99.95,2030-06-20
+1234,456,Sophia R,789,Web Development Crash Course,eLearning,3,29.99,89.97,2030-07-10
+8732,567,Ethan M,654,Machine Learning Fundamentals,eLearning,2,49.99,99.98,2031-08-25
+3456,789,Olivia K,456,Data Science Essentials,eLearning,4,39.99,159.96,2032-04-15
